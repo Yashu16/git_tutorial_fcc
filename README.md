@@ -1,2 +1,2 @@
 # git_tutorial_fcc
-Follow along of Free code camps' git tutorial
+Follow along of Freecodecamps' git tutorial
